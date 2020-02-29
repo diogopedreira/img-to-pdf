@@ -1,0 +1,28 @@
+{
+  "name": "img-to-pdf",
+  "version": "1.0.0",
+  "description": "Application to convert an image or series of images to a pdf file.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogopedreira/img-to-pdf.git"
+  },
+  "author": "Diogo Pedreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogopedreira/img-to-pdf/issues"
+  },
+  "homepage": "https://github.com/diogopedreira/img-to-pdf#readme",
+  "engineStrict": true,
+  "engines": {
+    "node": "13.9.0",
+    "npm": "6.13.7"
+  },
+  "dependencies": {
+    "engine-strict": "^1.0.0",
+    "semver": "^7.1.3"
+  }
+}
